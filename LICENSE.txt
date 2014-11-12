@@ -1,5 +1,5 @@
 Copyright (c) 2005-2014, Zend Technologies USA, Inc.
-All rights reserved
+All rights reserved  End grrr
 
 
 Redistribution and use in source and binary forms, with or without modification,
